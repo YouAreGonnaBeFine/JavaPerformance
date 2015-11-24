@@ -12,6 +12,7 @@ public class JprofileTest {
             int[] arr = new int[1024 * 8];
             lis.add(arr);
 			Thread.sleep(10);
+//			System.gc();
 			
 		}
 
