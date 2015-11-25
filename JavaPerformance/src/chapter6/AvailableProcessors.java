@@ -4,7 +4,7 @@ public class AvailableProcessors {
 
 	public static void main(String[] args) {
 		
-		//»ñµÃ¿ÉÓÃ´¦ÀíÆ÷ÊıÄ¿£¬¿É¾İ´ËÈ·¶¨Í¬Ê±²¢·¢Ö´ĞĞµÄJavaÏß³ÌÊı¡£
+		//è·å¾—å¯ç”¨å¤„ç†å™¨æ•°ç›®ï¼Œå¯æ®æ­¤ç¡®å®šåŒæ—¶å¹¶å‘æ‰§è¡Œçš„Javaçº¿ç¨‹æ•°ã€‚
 		int availableProcessors = Runtime.getRuntime().availableProcessors();
 		
 		System.out.println(availableProcessors);
